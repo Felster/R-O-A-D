@@ -1,2 +1,3 @@
-# R-O-A-D
-A simple Javascript game made without libraries
+# R    O    A    D
+
+A simple JavaScript game made in the early 2010's without any libraries. Knock enemies into barriers without crashing.
